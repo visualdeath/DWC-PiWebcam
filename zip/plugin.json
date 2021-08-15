@@ -1,0 +1,10 @@
+{
+    "id": "PiWebcam",
+	"name" : "PiWebcam",
+	"author" : "VisualDeath",
+	"dwcWebpackChunk" : "WebViewer",
+	"version" : "0.1.1",
+    "license": "GPL-3.0-or-later",
+    "homepage": "https://github.com/visualdeath/DWC-PiWebcam",
+	"dwcVersion" : "3.3"
+}
