@@ -1,5 +1,7 @@
 # DWC-PiWebcam
 
+![License](https://img.shields.io/github/license/visualdeath/DWC-PiWebcam?style=plastic) [![Release](https://img.shields.io/github/v/tag/visualdeath/DWC-PiWebcam)](https://github.com/visualdeath/DWC-PiWebcam/releases/tag/0.1.1)
+
 A Raspberry Pi webcam plugin for the Duet Web Control.  Allows real-time camera streaming, full screen with customizable overlays, and time lapse functions.
 
 Forked from https://github.com/TLAS11/DWC-PiWebcam and updated to work with RepRap 3.3
