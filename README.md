@@ -15,7 +15,7 @@ This interface requires:
 1.  Install RPI-Cam-Web-Interface on the Raspberry Pi:  https://elinux.org/RPi-Cam-Web-Interface
 2.  Install the zip file (PiWebcam.zip) using the Duet Web Control (upload it using Files > System)
 3.  Enable the plugin under Settings > Machine-Specific > Machine-Specific Plugins
-4.  Set your Webcam URL to the site root of RPi-Cam-Web_Interface ( ex: http://<RPi-IP>/html/ )
+4.  Set your Webcam URL to the site root of RPi-Cam-Web_Interface ( ex: http://duet3.local:8080 )
 
 ## Build instructions
 
